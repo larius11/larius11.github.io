@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently taking two CS classes, this one (Object-Oriented Programming) and CS 429 (Operating Systems)
+Working full-time at H-E-B as a Service Manager
+Hoping to get into game development in the future 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also have a website separate from this blog, check it out!
+<p><a href="http://ricardoriveron.com">www.ricardoriveron.com</a></p>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[larius828@yahoo.com](mailto:larius828@yahoo.com)
