@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently taking two CS classes, this one (Object-Oriented Programming) and CS 429 (Operating Systems)
-Working full-time at H-E-B as a Service Manager
-Hoping to get into game development in the future 
+I am currently taking Alogrithms & Complexity along with Object-Oriented Programming. I am currently working full-time at H-E-B as a Central Checkout Supervisor. Last summer I interned with H-E-B as a Software Developer and got to see the real life problems and daily lives of people doing what I want to do once I graduate. 
 
 ### More Information
 
