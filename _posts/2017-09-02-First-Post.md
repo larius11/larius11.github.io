@@ -19,4 +19,4 @@ So far it seems to be a class that will help develop me not just as a programmer
 
 ## What is my tip-of-the-week?
 
-If you have Windows 8, upgrade to Windows 10! **It is still free!** When trying to run Docker on my home computer (Which was running Windows 8) it complained that it needed to run on Windows 10. I know that some time ago Microsoft allowed for users to upgrade to Windows 10 for free but only for a limited time. However, after a quick google search, I found out that it is still possible to snatch this deal. Here is the link in case anyone needs it:
+If you have Windows 8, upgrade to Windows 10! **It is still free!** When trying to run Docker on my home computer (Which was running Windows 8) it complained that it needed to run on Windows 10. I know that some time ago Microsoft allowed for users to upgrade to Windows 10 for free but only for a limited time. However, after a quick google search, I found out that it is still possible to snatch this deal. Here is the link in case anyone needs it: [Windows Upgrade](https://www.microsoft.com/en-us/accessibility/windows10upgrade).
