@@ -8,7 +8,7 @@ This past week we began to dive into the first project for the semester. First, 
 So far I've got the basic implementation of the project down, working on some optimizations. I've found it truly eye-opening to use the issue tracker on GitHub. It gives me a better perspective as to how far along my project I am. It seems as though my expected time to completion is going to be a couple hours short. This is due to **HackerRank** being more difficult to crack than expected. Hopefully, after I've implemented some caching my results will improve. I am currently timing out on two of the tests. 
 
 ## What is in my way?
-Currently, I do not feel like anything is in my way directly. I would say that if my ultimate goal for this week is to finish Collatz and get full credit on all three quizzes the things in my way would be&#58
+Currently, I do not feel like anything is in my way directly. I would say that if my ultimate goal for this week is to finish Collatz and get full credit on all three quizzes the things in my way would be:
 * Github issues (my path to finish the project)
 * Weekly Readings
 
