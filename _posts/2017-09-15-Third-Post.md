@@ -12,7 +12,7 @@ Currently, I need to get better at managing my sleep. My own schedule is against
 My ultimate goal is to find a partner that can work with the schedule I have to follow. Doing full-time to pay the bills and for school can sometimes become a problem when doing group projects. Especially when there are only two people in the group. However, with enough effort and understanding, it is definitely possible. I still have to read the pair-programming paper for the week but it seems familiar, maybe I read it during 439. We learned a lot about pair programming in that class.
 
 ## What is my experience of the class?
-With each lecture that passes by I feel more and more excited about what my career could look like. The real-life examples that are shared during class as well as the projects that are to come have a parallel with what goes on in the industry. These are the top 5 things that have stuck with me
+With each lecture that passes by I feel more and more excited about what my career could look like. The real-life examples that are shared during class as well as the projects that are to come have a parallel with what goes on in the industry. These are the top 5 things that have stuck with me:
 1. Build the most basic implementation.
 2. Test the hell out of your code.
 3. Have other people test your code.
