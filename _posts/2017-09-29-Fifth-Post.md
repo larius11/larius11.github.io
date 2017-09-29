@@ -3,7 +3,7 @@ layout: post
 title: All nighters, when you need more time.
 ---
 ## What did I do this past week? 
-![an image alt text]({{ site.baseurl }}/assets/buzz.mp4 "#wired")
+<video src="/assets/buzz.mp4" width="320" height="200" preload></video>
 ## What is in my way?
 
 ## What will I do next week?
