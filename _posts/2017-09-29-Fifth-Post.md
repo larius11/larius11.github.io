@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The time dilemma.
+title: All nighters, when you need more time.
 ---
 ## What did I do this past week? 
-
+![an image alt text]({{ site.baseurl }}/assets/buzz.mp4 "#wired")
 ## What is in my way?
 
 ## What will I do next week?
