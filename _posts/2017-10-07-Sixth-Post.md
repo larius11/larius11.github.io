@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The time dilemma.
+title: Tests, tests, tests.
 ---
 ## What did I do this past week? 
 
@@ -10,4 +10,5 @@ title: The time dilemma.
 
 ## What is my experience of the class?
 
-## What is my tip-of-the-week?
+## What is my tip(pick)-of-the-week?
+[Pick-Of-The-Week](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/)
