@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Done with tests. For now...
+title: The show must go on.
 ---
 ## What did I do this past week?  
 This past week I've spent it working on the project and collecting myself from the tests I just finished. There were calculations of averages to make sure I am where I need to be when it comes to my grades. My main concern was Algo, but after my professor releasing a grade cutoff, it looks like I am sitting at about a B-, much better than I was expecting.
